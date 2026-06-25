@@ -1,0 +1,69 @@
+{
+  "tipoGrafo": "Digrafo",
+  "nodos": [12, 15, 17, 20],
+  "rutas": [
+    {
+      "arista": "Cesar",
+      "nodoInicial": 12,
+      "nodoFinal": 15,
+      "tiempo": 60,
+      "costo": 300
+    },
+    {
+      "arista": "Cesar1",
+      "nodoInicial": 15,
+      "nodoFinal": 17,
+      "tiempo": 120,
+      "costo": 350
+    },
+    {
+      "arista": "Cesar2",
+      "nodoInicial": 17,
+      "nodoFinal": 20,
+      "tiempo": 180,
+      "costo": 400
+    }
+    {
+      "arista": "Cesar3",
+      "nodoInicial": 20,
+      "nodoFinal": 25,
+      "tiempo": 300,
+      "costo": 600
+    }
+    {
+      "arista": "Cesar4",
+      "nodoInicial": 25,
+      "nodoFinal": 60,
+      "tiempo": 450,
+      "costo": 750
+    }
+    {
+      "arista": "Cesar5",
+      "nodoInicial": 60,
+      "nodoFinal": 100,
+      "tiempo": 600,
+      "costo": 100
+    }
+    {
+      "arista": "Cesar6",
+      "nodoInicial": 100,
+      "nodoFinal": 120,
+      "tiempo": 750,
+      "costo": 1200
+    }
+    {
+      "arista": "Cesar7",
+      "nodoInicial": 12,
+      "nodoFinal": 100,
+      "tiempo": 1000,
+      "costo": 1350
+    }
+    {
+      "arista": "Cesar8",
+      "nodoInicial": 180,
+      "nodoFinal": 290,
+      "tiempo": 1200,
+      "costo": 1500
+    }
+  ]
+}
